@@ -6,6 +6,7 @@ Assumptions:
 - people contact others via a directed graph.  i.e. person a contacting person b does not mean person b contacts person a.  (simplified way of having people interact with what you leave behind)
 - a person with a positive test is immediately quarantined and no longer has any contact with others
 - severe cases are always tested.  contacts of severe cases are priority tested.  random testing occurs for any remaining available tests
+- once tested, a person is not retested unless they develop severe symptoms
 - people are most likely to contact others within a proximity
 
 Sample results:
