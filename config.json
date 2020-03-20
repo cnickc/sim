@@ -1,0 +1,18 @@
+{
+    "population": 200000,
+    "infectionRate": 0.2,
+    "severeSymptomRate": 0.05,
+    "daysToShowSevereSymptoms": 4,
+    "recoveryTime": 14,
+    "testsPerDay": 1000,
+    "connections": {
+        "range": 0.1,
+        "lo": 25,
+        "hi": 75
+    },
+    "contactsPerDay": {
+        "lo": 5,
+        "hi": 10
+    },
+    "daysToSimulate": 50
+}
