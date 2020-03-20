@@ -9,6 +9,7 @@ Assumptions:
 - people are most likely to contact others within a proximity
 
 Sample results:
+```
 > node .\main.js
 day, total population, number of infected people, number of severe cases, known cases (positive tests), number of recovered people
 1, 200000, 2, 0, 0, 0
@@ -60,3 +61,4 @@ day, total population, number of infected people, number of severe cases, known 
 47, 200000, 1, 0, 22896, 199999
 48, 200000, 0, 0, 22896, 200000
 49, 200000, 0, 0, 22896, 200000
+```
